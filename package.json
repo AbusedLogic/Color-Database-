@@ -1,0 +1,25 @@
+{
+  "name": "color-database-",
+  "version": "1.0.0",
+  "description": "This is a compilation of data on Original Honda paint colors and their corrosponding codes into a database. \r The webform built will allow individuals to search the database for any color they so desire \r The Searchs can be based off of keyworks such as \"year, make, model\" etc..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbusedLogic/Color-Database-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbusedLogic/Color-Database-/issues"
+  },
+  "homepage": "https://github.com/AbusedLogic/Color-Database-#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "pug": "^3.0.0"
+  }
+}
